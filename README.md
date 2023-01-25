@@ -10,6 +10,6 @@ I will (eventually) get my game into Steam if it has enough support here.
 - Use Q/E to rotate
 - Use Numpad Enter to get to the credits
 
-### Go to the wiki tab for more info about the game (or click [here](https://github.com/RocketSmash9000/IATL.wiki.git))
+### Go to the wiki tab for more info about the game (or click [here](https://github.com/RocketSmash9000/IATL/wiki))
 
 ### Join IATL's official Discord server [here](https://www.discord.gg/qxtpDyQRpv)
