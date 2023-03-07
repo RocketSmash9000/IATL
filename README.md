@@ -25,3 +25,5 @@ A headset is recommended.
 ### Go to the wiki tab for more info about the game (or click [here](https://github.com/RocketSmash9000/IATL/wiki))
 
 ### Join IATL's official Discord server [here](https://www.discord.gg/qxtpDyQRpv)
+
+### Download the newest version [here](https://rocketsmash.itch.io/iatl)
