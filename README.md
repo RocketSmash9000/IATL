@@ -9,6 +9,7 @@ I will (eventually) get my game into Steam if it has enough support here.
 - Use WASD to move
 - Use Q/E to rotate
 - Use Numpad Enter to get to the credits
+- Controller is also supported
 
 ## System requirements
 - Any Windows version (XP or higher).
