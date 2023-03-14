@@ -17,7 +17,7 @@ I will (eventually) get my game into Steam if it has enough support here.
 - A PC.
 - A player.
 - GEFORCE/NVIDIA GTX/RTX 650 (can be lower. Use carefully as it might be unstable).
-- A keyboard and a mouse.
+- A keyboard and a mouse (or a controller).
 
 A headset is recommended.
 
