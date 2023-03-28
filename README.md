@@ -23,6 +23,8 @@ A headset is recommended.
 
 ## Other stuff
 
+### All versions are now listed and organized in a new release (I call it the masterpost). Yoy can find all of them in there without having to scroll down to find it
+
 ### Go to the wiki tab for more info about the game (or click [here](https://github.com/RocketSmash9000/IATL/wiki))
 
 ### Join IATL's official Discord server [here](https://www.discord.gg/qxtpDyQRpv)
