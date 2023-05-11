@@ -5,6 +5,9 @@ You can include my game wherever you want, but you must give credit
 
 I will (eventually) get my game into Steam if it has enough support here. 
 
+## Important
+This project repo has been discontinued as v1.0.0 has been released. Feel free to download and play older versions.
+
 ## Controls
 - Use WASD to move
 - Use Q/E to rotate
@@ -12,14 +15,14 @@ I will (eventually) get my game into Steam if it has enough support here.
 - Controller is also supported since v0.1.2-beta
 
 ## System requirements
-- Any Windows version (XP or higher).
-- At least 1GB of RAM for it to run smooth.
+- Any Windows/Linux/MacOS version.
+- At least 1GB of RAM for it to run smoothly.
 - A PC.
 - A player.
-- GEFORCE/NVIDIA GTX/RTX 650 (can be lower. Use carefully as it might be unstable).
+- GEFORCE/NVIDIA GTX/RTX 650 (can be lower. Use carefully as it might cause an fps drop).
 - A keyboard and a mouse (or a controller).
 
-A headset is recommended.
+Use of headsets is recommended.
 
 ## Other stuff
 
