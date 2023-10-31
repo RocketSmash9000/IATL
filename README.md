@@ -1,5 +1,5 @@
 # IATL
-Here you will find every release and beta I made so far.
+Here you will find every beta I made so far.
 
 You can include my game wherever you want, but you must give credit
 
@@ -15,7 +15,7 @@ This project repo has been discontinued as v1.0.0 has been released. Feel free t
 - Controller is also supported since v0.1.2-beta
 
 ## System requirements
-- Any Windows/Linux/MacOS version.
+- Any Windows/Linux/MacOS versión (haven’t tested versions below XP).
 - At least 1GB of RAM for it to run smoothly.
 - A PC.
 - A player.
